@@ -1,6 +1,6 @@
 Name:		texlive-bankstatement
 Version:	38857
-Release:	1
+Release:	2
 Summary:	A LaTeX class for bank statements based on csv data
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bankstatement
